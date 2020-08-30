@@ -1,33 +1,27 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Warren Buffett’s Recent Explanation of How Money Now Works Is the Most
+  Important in History
+date: 2020-08-30T09:02:43.304Z
+description: The value of the money you have is changing. “Debt “and what it
+  means is fundamentally changing
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: /img/gatsby.png
 tags:
-  - flavor
-  - tasting
+  - wealth
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![flavor wheel](/img/gatsby.png)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Watching Warren Buffett completely change what he believes about money in a matter of months has been fascinating.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+He is considered the most successful investor in history, so he’s worth listening to when financial markets enter a strange period that nobody understands or can properly explain (even if, like me, you don’t love everything he says).
 
-## What the updates mean to you
+These two lines [from Warren](https://twitter.com/GoldTelegraph_/status/1294779953246900225) made me think:
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+“The \[US] debt isn’t going to be repaid; it’s going to be refunded.”
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+“You better own something other than debt.”
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Buffett explains that when the government can just keep on printing money to pay their own debt it’s laughable to think they will ever default. He says, “The trick \[for countries] is to keep borrowing in your own currency.”
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+So if money will keep being printed out of thin air then what does that mean for your investments, assets and savings? Let’s explore the topic in simplistic terms and see what you can do about it.
