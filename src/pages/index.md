@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Bloggers hub
+title: afdfafasf
 image: /img/home-jumbotron.jpg
-heading: Bloggers hub
-subheading: hub to express yourself
+heading: asfasfasfasf
+subheading: hub to express yourselfaasfasfafsasf
 mainpitch:
-  title: Why Bloggers hub
+  title: Why Bloggers hubafasfas
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
     eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
     veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
